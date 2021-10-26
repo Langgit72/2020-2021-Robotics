@@ -10,7 +10,7 @@ FTC Programming Resources: firstinspires.org/node/16936
   - Autonomus
     - Webcam and Camera Stream: https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki/Using-an-External-Webcam-with-Control-Hub
 
-  - Code
+  - Code Samples
     - Sample Object Detection code: https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki/Java-Sample-Op-Mode-for-TensorFlow-Object-Detection
     - Sample TeleOp Code:          https://github.com/ftctechnh/ftc_app/blob/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Iterative.java
     - Sample Autonomous Code(Encoded): https://github.com/ftctechnh/ftc_app/blob/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByEncoder_Linear.java
